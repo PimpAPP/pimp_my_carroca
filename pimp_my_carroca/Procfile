@@ -1,0 +1,2 @@
+web: gunicorn pimp_my_carroca.wsgi --log-file -
+
