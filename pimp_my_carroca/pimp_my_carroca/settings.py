@@ -89,5 +89,5 @@ TEMPLATE_DIRS = (
 )
 
 STATICFILES_DIRS = (
-    BASE_DIR + '/static',
+    BASE_DIR + '/static/',
 )
