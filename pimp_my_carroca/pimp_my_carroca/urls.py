@@ -4,10 +4,11 @@ from django.conf.urls import patterns, include, url
 
 from django.contrib import admin
 admin.autodiscover()
+from maps import views
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'pimp_my_carroca.views.home', name='home'),
+    url(r'^$', views.hallo),
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^maps/', include('maps.urls')),
