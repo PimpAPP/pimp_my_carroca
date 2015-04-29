@@ -3,11 +3,19 @@ Pimp My Carroça
 
 Esse repositório tem como objetivo centralizar issues, documentação, reuniões e afins.
 
-O PimpApp! começou com a participação de um pequeno time no DAL2014[0]. Os envolvidos no PimpApp! não necessariamente e/ou diretamente membros/colaboradores do projeto Pimp My Carroça.
+O PimpApp! começou com a participação de um pequeno time no DAL2014. Os envolvidos no PimpApp! não necessariamente e/ou diretamente membros/colaboradores do projeto Pimp My Carroça.
 
 Para saber mais sobre a iniciativa Pimp My Carroça, acesse:
 
 * https://pimpmycarroca.com.br
+
+Para saber mais sobre a edição 2014 do DAL, acesse:
+
+* http://2014.desarrollandoamerica.org/
+
+PimpApp no DAL 2014:
+
+* http://2014.desarrollandoamerica.org/portfolio/pimpapp/
 
 Como colaborar:
 ===============
